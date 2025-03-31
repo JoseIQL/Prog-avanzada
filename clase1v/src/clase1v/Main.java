@@ -1,5 +1,5 @@
 package clase1v;
-
+//ej
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
